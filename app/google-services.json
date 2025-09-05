@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251199164288",
+    "project_id": "tapwm-41c0e",
+    "storage_bucket": "tapwm-41c0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251199164288:android:efe319c018e0b782727b65",
+        "android_client_info": {
+          "package_name": "com.example.basic_interfaces_kotlin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaLKvurVqErZDFbRhZHnPN-GZFXUuG9I0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
